@@ -6,7 +6,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Calineo',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/VulpesFabrica/calineo-site' }],
 			sidebar: [
 				{
 					label: 'Calinéo',
@@ -14,6 +14,7 @@ export default defineConfig({
 						{ label: 'Accueil', slug: '' },
 						{ label: 'Mentions légales', slug: 'legal/mentions-legales' },
 						{ label: 'CGU', slug: 'legal/conditions-utilisation' },
+						{ label: 'Politique de confidentialité', slug: 'legal/politique-confidentialite' },
 					],
 				},
 			],

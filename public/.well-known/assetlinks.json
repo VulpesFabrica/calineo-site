@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.calineo.app",
+      "sha256_cert_fingerprints": [
+        "6F:8E:91:3A:94:DE:77:BF:B2:43:A6:4A:8C:17:9C:98:20:C8:2F:0E:06:94:F2:17:41:7E:A1:1D:C8:62:F1:D3"
+      ]
+    }
+  }
+]
