@@ -15,6 +15,7 @@ export default defineConfig({
 						{ label: 'Mentions légales', slug: 'legal/mentions-legales' },
 						{ label: 'CGU', slug: 'legal/conditions-utilisation' },
 						{ label: 'Politique de confidentialité', slug: 'legal/politique-confidentialite' },
+						{ label: 'Suppression de compte et données personnelles', slug: 'legal/suppression-compte' },
 					],
 				},
 			],
